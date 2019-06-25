@@ -1,5 +1,5 @@
 # ArcMap
 - Introduction ArcGIS10
 - Lab1
-   -vector & Raster
+   - vector & Raster
 - Lab2
