@@ -1,6 +1,6 @@
 # ArcMap
 
-   ![8](https://user-images.githubusercontent.com/47414872/60163339-5ac49780-9836-11e9-8458-edc79b4ca391.PNG)
+   ![Ihryb](https://user-images.githubusercontent.com/47414872/60163875-7c724e80-9837-11e9-8192-cadc91045e68.png)
    
 - Introduction ArcGIS10
 - Lab1
