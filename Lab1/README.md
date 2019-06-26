@@ -11,9 +11,10 @@
   
    ![1](https://user-images.githubusercontent.com/47414872/60159173-93ac3e80-982d-11e9-8ce6-3c1b0381cb53.PNG)
   
-    - Point : 0차원, 위치 속성을 가짐(Node, Vertex)
-    - Line : 1차원, 길이 속성을 가짐(Edge, Link, Chain)
-    - Area : 2차원, 지역 및 둘레의 속성을 가짐(Polygon, Face, Zone)
+    
+   - Point : 0차원, 위치 속성을 가짐(Node, Vertex)
+   - Line : 1차원, 길이 속성을 가짐(Edge, Link, Chain)
+   - Area : 2차원, 지역 및 둘레의 속성을 가짐(Polygon, Face, Zone)
     
 ## Raster Data Model
   - 특징
