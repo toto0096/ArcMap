@@ -21,4 +21,13 @@
     - 셀 값의 변화는 사상(feature)의 공간적 변화를 반영
     - GIS에 사용되는 다양한 데이터를 래스터 형식으로 인코딩 가능
     - 래스터 데이터는 많은 컴퓨터 메모리를 요구하기 때문에 저장 및 검색의 문제가 중요
-    
+  - Elements of the Raster Data Model
+    - Row(행) : y-coordinates
+    - Columns(열) : x-coordinates
+    - Cell Value : 래스터 각 셀의 행과 열이 나타내는 위치의 공간적 현상을 나타냄(integer, floating-point)
+    - Cell Size : 래스터 데이터 모델의 해상도를 결정 (ex. 10m*10m)
+    - Raster Bands : Single Band, Multiple bands
+    - Spatial Reference : 다른 GIS 데이터 셋과 공간적으로 맞추기 위해서 래스터 데이터는 공간 참조 정보가 있어야 함(Map Projection, Geo-referenced Raster)
+  -Types of Raster Data
+    - Satellite Imagery (위성 영상)
+      ![2](https://user-images.githubusercontent.com/47414872/60161278-2ea71780-9832-11e9-9a2f-a6d2d85c8884.PNG)
