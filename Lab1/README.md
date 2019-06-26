@@ -30,4 +30,5 @@
     - Spatial Reference : 다른 GIS 데이터 셋과 공간적으로 맞추기 위해서 래스터 데이터는 공간 참조 정보가 있어야 함(Map Projection, Geo-referenced Raster)
   -Types of Raster Data
     - Satellite Imagery (위성 영상)
+    
       ![2](https://user-images.githubusercontent.com/47414872/60161278-2ea71780-9832-11e9-9a2f-a6d2d85c8884.PNG)
