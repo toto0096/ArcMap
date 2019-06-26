@@ -36,3 +36,22 @@
     - 수치표고모델 (Digital Elevation Models, DEMs)
     
       ![3](https://user-images.githubusercontent.com/47414872/60162035-a4f84980-9833-11e9-8a00-84bdfa764c4f.PNG)
+      
+    - 디지털 정사사진 (Digital Orthophotos, DOQ)
+    
+      ![4](https://user-images.githubusercontent.com/47414872/60162175-f3a5e380-9833-11e9-8f6f-f2449bba8325.PNG)
+      
+    - Digital Raster Graphics (DRGs)
+    
+      ![5](https://user-images.githubusercontent.com/47414872/60162258-26e87280-9834-11e9-9d2a-46cf79921af4.PNG)
+
+    - Graphic Files
+    
+      ![6](https://user-images.githubusercontent.com/47414872/60162739-1c7aa880-9835-11e9-9c1e-7ce50d2d50ab.PNG)
+
+    - GRID
+      - ESRI의 래스터 데이터 구조
+      - ArcMap, QGIS에서 Display와 Query 가능
+      - Single-layer, multiple-value
+      - 정수, 실수
+      - *.adf
