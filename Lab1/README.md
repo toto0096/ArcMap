@@ -8,6 +8,7 @@
     - 래스터 자료보다 소용량
     - 복잡한 데이터구조
   - Representation of Simple Features
+  
    ![1](https://user-images.githubusercontent.com/47414872/60159173-93ac3e80-982d-11e9-8ce6-3c1b0381cb53.PNG)
   
     - Point : 0차원, 위치 속성을 가짐(Node, Vertex)
