@@ -6,3 +6,5 @@
 - Lab1
    - Vector & Raster
 - Lab2
+   - 좌표체계
+   - 지오코딩
