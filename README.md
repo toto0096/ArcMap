@@ -8,3 +8,7 @@
 - Lab2
    - 좌표체계
    - 지오코딩
+- Lab3
+   - Vector data 생성 및 편집
+   - Vectorizing (벡터변환)
+   - Rasterizing (래스터변환)
