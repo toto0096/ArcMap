@@ -1,0 +1,8 @@
+201503301945   0     0     0최문기 c:\IGIS_L~1\data2\seoul_pollute.shp = GRIDSHAPE(c:\IGIS_Lab03\data2\seoul_pollute.img, NOWEED)
+201503301945   0     0     0최문기 c:\IGIS_L~1\data2\s.shp = GRIDSHAPE(c:\IGIS_Lab03\data2\seoul_pollute.img, WEED)
+201503301946   0     0     0최문기 c:\IGIS_L~1\data2\s.shp = GRIDLINESHAPE(c:\IGIS_Lab03\data2\seoul_pollute.img, POSITIVE, 0, NOWEED)
+201503301947   0     0     0최문기 c:\IGIS_L~1\data2\asd.shp = CONTOUR(c:\IGIS_Lab03\data2\seoul_pollute.img,  INTERVAL, 10.0, 0.0)
+201503301947   0     0     0최문기 c:\IGIS_L~1\data2\1.shp = GRIDSHAPE(c:\IGIS_Lab03\data2\seoul_pollute.img, NOWEED)
+201503301957   0     0     0최문기 c:\IGIS_L~1\data2\pollute_contour.shp = CONTOUR(c:\IGIS_Lab03\data2\seoul_pollute.img,  INTERVAL, 1.0, 0.0)
+201503302007   0     0     0최문기 c:\IGIS_L~1\data2\pollute_contour.shp = GRIDSHAPE(c:\IGIS_Lab03\data2\Seoul_pollute.img, NOWEED)
+201503302008   0     1     0최문기 c:\IGIS_L~1\data2\1.shp = GRIDLINESHAPE(c:\IGIS_Lab03\data2\Seoul_pollute.img, POSITIVE, 0, NOWEED)
