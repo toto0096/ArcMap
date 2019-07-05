@@ -1,3 +1,5 @@
+![22](https://user-images.githubusercontent.com/47414872/60701556-1c666100-9f37-11e9-91e8-dc7b100a47f5.PNG)
+
 ## Vector Data Model
   - 기본적으로 필요한 두 가지 데이터
     - Points, Lines, Polygons의 공간사상을 나타낼 좌표체계 필요
