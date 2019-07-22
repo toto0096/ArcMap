@@ -12,3 +12,9 @@
    - Vector data 생성 및 편집
    - Vectorizing (벡터변환)
    - Rasterizing (래스터변환)
+- Lab4
+   - Join (조인)
+   - Definition Query
+- Lab5
+   - 데이터 추출 (Extracting features)
+   - Buffering features
